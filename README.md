@@ -269,7 +269,7 @@ This project uses `mistralai/Mixtral-8x7B-Instruct-v0.1`, one of the most capabl
 
 ### 3. Urban Graph Representation
 
-- The sample of the original Munich road network extracted from OpenStreetMap contains over **90,000 nodes** and **140,000+ edges**.
+- The sample of the original Munich road network extracted from OpenStreetMap contains over **90,000 nodes** and **110,000+ edges**.
 - Due to low semantic diversity in raw graph data, the full graph is not directly embedded.
 - Instead, a semantically enriched, narrative-style dataset was constructed, covering **70,000+ Chain-of-Thought (CoT) entries** simulating meaningful paths, metrics, and urban insights.
 
