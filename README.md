@@ -88,7 +88,7 @@ This system relies on a meticulously curated and semantically embedded dataset s
 
 ## Government Reports (PDF)
 
-Each domain agent — **Ecology & Land Use**, **Urban Connectivity & Resilience**, and **Community & Policies** — was embedded with vector databases built from a total of **274 official PDF documents**. These were primarily sourced from:
+Each domain agent — **Ecology & Land Use**, **Urban Connectivity & Resilience**, and **Community & Policies** — was embedded with vector databases built from a total of **74 official PDF documents**. These were primarily sourced from:
 
 - [muenchen.de](https://muenchen.de)  
 - [muenchen-transparent.de](https://muenchen-transparent.de)  
