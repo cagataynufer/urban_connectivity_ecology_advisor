@@ -1,0 +1,10 @@
+langchain
+langchain-community
+chromadb[all]
+sentence-transformers
+transformers
+accelerate
+bitsandbytes
+scikit-learn
+tinydb
+huggingface_hub
