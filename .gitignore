@@ -1,0 +1,8 @@
+__pycache__/
+*.sqlite3
+*.zip
+logs/
+__pycache__/
+*.sqlite3
+*.zip
+logs/
