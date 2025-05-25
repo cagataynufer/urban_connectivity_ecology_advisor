@@ -1,6 +1,6 @@
 # Urban Connectivity & Ecology Advisor 🌿
 
-**Urban Connectivity & Ecology Advisor** is a modular, multi-agent system built to support advanced decision-making in urban planning and ecological resilience. Designed specifically for **Munich**, the system analyzes complex spatial, environmental, and community-based interactions by simulating collaborative expert agents—each grounded in real planning data, vector retrieval, and structured reasoning.
+**Urban Connectivity & Ecology Advisor** is a modular, multi-agent system built to support advanced decision-making in urban planning and ecological resilience. Designed specifically for **Munich**, the system analyzes complex spatial, environmental, and community-based interactions by simulating collaborative expert agents, each grounded in real planning data, vector retrieval, and structured reasoning.
 
 This repository contains all components necessary to run the system, including:
 - Specialized domain agents for ecology, infrastructure, and policy
