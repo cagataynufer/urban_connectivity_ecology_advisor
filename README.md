@@ -140,8 +140,6 @@ The result is a natural language traversal of the city’s infrastructure, captu
 - Evaluator (Critical Reports): `cagatayn/evaluator`  
 - Munich Urban Graph Network: `cagatayn/munich_graph_network`
 
-Built with ❤️ in Munich 
-
 ---
 
 ## Example
